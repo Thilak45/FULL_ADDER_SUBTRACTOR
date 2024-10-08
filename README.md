@@ -101,12 +101,12 @@ endmodule
 **Output Timing Waveform**
 
 **FULL ADDER**
+![WhatsApp Image 2024-10-08 at 10 38 59_a093fabd](https://github.com/user-attachments/assets/d8c1a7e5-86e8-4e59-9f1c-a9ef001ac3a3)
 
-![WhatsApp Image 2024-10-08 at 10 38 59_c672d035](https://github.com/user-attachments/assets/ce100b2e-efa8-49bc-a038-c5e7a7c2bfc4)
 
 **FULL SUBTRACTOR**
+![WhatsApp Image 2024-10-08 at 10 39 10_548d6fcb](https://github.com/user-attachments/assets/4dafac24-aa05-449d-9817-d150aff4f499)
 
-![WhatsApp Image 2024-10-08 at 10 39 10_7f75377e](https://github.com/user-attachments/assets/f50aa2cb-57a8-420a-8eb8-80e5285ff30d)
 
 
 **Result:**
