@@ -60,6 +60,9 @@ Borrow out = A'Bin + A'B + BBin
 3.The circuit includes XOR, AND, OR gates to perform subtraction. 
 4.Compile, simulate, implement, and program the design similarly to the full adder.
 
+**RTL Schematic**
+
+![318332382-c01e6c3c-d648-4bad-8a98-66d93df13f1a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/2e45d893-4f83-4a98-8bc2-d0d30b70e7e2)
 
 **Program:**
 
@@ -94,19 +97,16 @@ endmodule
 
 ```
 
-**RTL Schematic**
-
-![318332382-c01e6c3c-d648-4bad-8a98-66d93df13f1a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/2e45d893-4f83-4a98-8bc2-d0d30b70e7e2)
 
 **Output Timing Waveform**
 
 **FULL ADDER**
 
-![318332443-3411cbc7-4f76-4664-a513-e348a9880eff](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/5d286c1d-e62e-454a-a389-00ba2c2a91fc)
+![WhatsApp Image 2024-10-08 at 10 38 59_c672d035](https://github.com/user-attachments/assets/ce100b2e-efa8-49bc-a038-c5e7a7c2bfc4)
 
 **FULL SUBTRACTOR**
 
-![318332487-1cc068c4-6398-4a52-bae8-39c6657c0a9a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/03d5d030-815e-4847-a976-2fd282cf0333)
+![WhatsApp Image 2024-10-08 at 10 39 10_7f75377e](https://github.com/user-attachments/assets/f50aa2cb-57a8-420a-8eb8-80e5285ff30d)
 
 
 **Result:**
